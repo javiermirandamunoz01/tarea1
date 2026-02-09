@@ -1,1 +1,2 @@
 nombre :javier
+curso:python/django
